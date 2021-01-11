@@ -13,7 +13,7 @@ path = "src/brb_node.rs"
 rand = "0.7.3"
 serde = "1.0.106"
 bincode = "1.2.1"
-brb = { git = "https://github.com/maidsafe/brb", branch = "master" }
+brb = { path = "../brb" }
 brb_dt_orswot = { path = "../brb_dt_orswot"}
 cmdr = { git = "https://github.com/mendelt/cmdr", rev = "8407462be39bb932ec86eea1b36ce325f3034ccb" }
 tokio = { version = "~0.2.22", features = ["full"] }

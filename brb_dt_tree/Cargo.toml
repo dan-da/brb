@@ -7,7 +7,7 @@ license = "MIT OR BSD-3-Clause"
 
 [dependencies]
 crdt_tree = "0.0.7"
-brb = { git = "https://github.com/maidsafe/brb.git", branch="master" }
+brb = { path = "../brb" }
 serde = "1.0.106"
 
 [dev-dependencies]
