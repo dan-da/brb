@@ -5,7 +5,11 @@
 
 ## About
 
-Please see the [brb crate](https://github.com/maidsafe/brb/).
+A BRBDataType wrapper for an ORSWOT from [rust-crdt](https://github.com/rust-crdt/rust-crdt).
+
+This enables Tree operations to be transmitted in a BFT manner using Byzantine Reliable Broadcast.
+
+Please see the [brb workspace](https://github.com/maidsafe/brb/).
 
 ## License
 

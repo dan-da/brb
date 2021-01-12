@@ -5,11 +5,11 @@
 
 ## About
 
-This crates implements a BRBDataType wrapper around a Tree CRDT.
+A BRBDataType wrapper for a [crdt_tree](https://github.com/maidsafe/crdt_tree/).
 
 This enables Tree operations to be transmitted in a BFT manner using Byzantine Reliable Broadcast.
 
-Please see the [brb crate](https://github.com/maidsafe/brb/) and [crdt_tree](https://github.com/maidsafe/crdt_tree/).
+Please see the [brb workspace](https://github.com/maidsafe/brb/).
 
 ## License
 

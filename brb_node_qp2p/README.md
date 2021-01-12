@@ -7,7 +7,7 @@
 
 This crate implements a P2P node (CLI) for using BRB over Quic protocol via [qp2p](<https://github.com/maidsafe/qp2p>).
 
-Please see the [brb crate](https://github.com/maidsafe/brb/).
+Please see the [brb workspace](https://github.com/maidsafe/brb/).
 
 ## License
 

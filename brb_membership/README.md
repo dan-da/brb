@@ -5,7 +5,9 @@
 
 ## About
 
-Please see the [brb crate](https://github.com/maidsafe/brb/).
+This BRB Dynamic Membership module enables nodes to dynamically join and leave a BRB voting group.
+
+Please see the [brb workspace](https://github.com/maidsafe/brb/).
 
 ## License
 
